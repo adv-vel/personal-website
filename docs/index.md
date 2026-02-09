@@ -15,3 +15,5 @@ Hi, I'm Advaith, a first year PhD student working with Dr. Dante Kalise at Imper
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+![ECRI Logo](assets/ecri-banner.png)
