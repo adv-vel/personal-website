@@ -23,7 +23,7 @@ let's improve the aesthetics in this file. While editing, you can toggle into Pr
 <!-- Next up, headings. Add one or more hashtags before a line to make it a heading -->
 <!-- More hashtags mean a deeper level subheading. Make Getting Started a level 2 heading. -->
 
-Getting Started
+## Getting Started
 
 Important!!
 
@@ -31,18 +31,18 @@ In your newly created repository, complete the following:
 
 <!-- Next, ordered lists. Prefix each block below with a number and full stop ( 1. ) -->
 
-Give GitHub Actions Read and write permissions on this repo
+1. Give GitHub Actions Read and write permissions on this repo
 Settings -> Actions -> General -> Workflow Permissions
 
-Enable GitHub Pages
+1. Enable GitHub Pages
 Settings -> Pages -> Build & Deployment -> Source -> GitHub Actions
 
-Change respository name
+1. Change respository name
 Click on `_config.yml` -> Edit this file -> `repository:` -> (replace with your username/repository)
 
 <!-- More headings. Make What's Included and Checklist level 3 headings. -->
 
-What's Included
+### What's Included
 
 Contains basic configuration to get you a repository with:
 
@@ -54,7 +54,7 @@ Sample configuration file.
 Pre-configured GitHub Action.
 This wonderful README.
 
-Checklist
+### Checklist
 
 <!-- Task lists. Prefix each line with a hyphen and square brackets - [ ] (note the whitespace) -->
 
