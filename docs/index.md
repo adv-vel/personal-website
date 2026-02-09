@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Advaith's Homepage
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hi, I'm Advaith, a first year PhD student working with Dr. Dante Kalise at Imperial College London!
 
 ## Commands
 
